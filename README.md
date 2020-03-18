@@ -10,7 +10,7 @@ golang
 
 MySQL
 
-Redis
+[Redis](./redis)
 
 BadgerDB
 

@@ -200,3 +200,6 @@ HTTP/3是跑在QUIC上的HTTP
 [关于HTTP协议，需要知道的](https://github.com/ljianshu/Blog/issues/22)
 
 [HTTPS工作流程](https://www.cnblogs.com/linianhui/p/security-https-workflow.html)
+
+[解析HTTP/2与HTTP/3的新特性](https://juejin.im/post/5d9abde7e51d4578110dc77f)
+

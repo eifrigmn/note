@@ -24,3 +24,8 @@ UDP (User Data Protocol)在TCP/IP模型中属于传输层协议，UDP不提供�
 + 限定于LAN等特定网络中的应用通信
 + 广播通信 (广播、多播)
 
+## 参考
+
+[用户数据报协议-wikipedia]([https://zh.wikipedia.org/zh-cn/%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E6%8A%A5%E5%8D%8F%E8%AE%AE](https://zh.wikipedia.org/zh-cn/用户数据报协议))
+
+《图解TCP IP》

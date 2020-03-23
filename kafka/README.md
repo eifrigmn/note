@@ -87,5 +87,11 @@ Kafka提供"At least once"模型来保证Consumer消费消息的可靠性。即�
 + 流处理
 + 监测指标：如运营指标，用户活动跟踪等
 
+## 参考
 
+[kafka原理总结](https://www.jianshu.com/p/734cf729d77b)
+
+https://juejin.im/post/5d29d6845188254583631f41
+
+[kafka学习之路](https://www.cnblogs.com/qingyunzong/p/9004509.html)
 

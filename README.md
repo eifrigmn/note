@@ -18,7 +18,7 @@ LevelDB
 
 ## 计算机基础
 
-网络协议
+[网络协议](./net)
 
 数据结构及算法
 
@@ -28,5 +28,7 @@ gin
 
 ## 其他组件
 
-Kafka 
+[Kafka](./kafka)
+
+[zookeeper](./zookeeper)
 

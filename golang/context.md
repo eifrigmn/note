@@ -51,7 +51,7 @@ type Context interface {
 ~~~go
 // emptyCtx ---> ctx("key1","val1") ---> ctx1("key2","val2")
 //                                  |
-//									|---> ctx2("key2","val3")
+//				    |---> ctx2("key2","val3")
 ctx := context.TODO()
 ctx = context.WithValue(ctx, "key1", "val1")
 ctx1 := context.WithValue(ctx, "key2", "val2")

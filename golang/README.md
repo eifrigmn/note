@@ -4,7 +4,7 @@
 
 ## 目录
 
-[上下文 Context](https://www.yuque.com/eifrigmn/zzp3ae/ckh1g8/edit)
+[上下文 Context](./context.md)
 
 [数组与切片](https://www.yuque.com/eifrigmn/zzp3ae/aqdyd9)
 

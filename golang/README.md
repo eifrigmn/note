@@ -1,21 +1,23 @@
 # Golang
 
-笔记记录在语雀，后续转移到此处。
-
 ## 目录
 
 [上下文 Context](./context.md)
 
-[数组与切片](https://www.yuque.com/eifrigmn/zzp3ae/aqdyd9)
+[定时器Timer](./timer.md)
 
-[Map](https://www.yuque.com/eifrigmn/zzp3ae/gd4f70)
+[Deferred函数](./defer.md)
 
-[同步原语与锁](https://www.yuque.com/eifrigmn/zzp3ae/aruhrq)
+数组与切片
 
-[反射 reflect](https://www.yuque.com/eifrigmn/zzp3ae/td1t2z)
+Map
 
-[channel](https://www.yuque.com/eifrigmn/zzp3ae/kgztd9)
+同步原语与锁
 
-[GC](https://www.yuque.com/eifrigmn/zzp3ae/sl7ngu/edit)
+反射 reflect
 
-[接口 interface](https://www.yuque.com/eifrigmn/zzp3ae/tmiayq)
+channel
+
+GC
+
+接口 interface

@@ -4,7 +4,7 @@
 
 ## 语言类
 
-golang
+[golang](./golang)
 
 ## DB
 

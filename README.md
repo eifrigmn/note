@@ -8,7 +8,7 @@
 
 ## DB
 
-MySQL
+[MySQL](./mysql)
 
 [Redis](./redis)
 
